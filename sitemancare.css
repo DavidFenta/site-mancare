@@ -1,0 +1,89 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    width: 600px;
+    height: 1161px;
+    margin: 0 auto;
+}
+
+.footer {
+    position: relative;
+    margin-bottom: 67px;
+}
+
+.img-top {
+    width: 600px;
+    height: 167px;
+}
+
+.numeburgherie {
+    top: 50px;
+    left: 50px;
+    margin: 0;
+    color: white;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.motto {
+    top: 90px;
+    left: 50px;
+    margin: 0;
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.mnc {
+    position: relative;
+    margin:46px;
+    height:108px;
+    border-bottom: 1px solid grey;
+}
+
+.add-btn{
+    border-radius: 100%;
+    border: 1px solid grey;
+    top:0;
+    right:0;
+    padding:15px;
+}
+
+.mancare {
+    top: 0;
+    left: 0;
+    font-size: 60px;
+}
+
+.numemancare {
+    top: 20px;
+    left: 150px;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.ingrediente{
+    font-weight: 400;
+    top: 50px;
+    left: 150px;
+    font-size: 13px;
+    color:#8B8B8B;
+}
+
+.pret{
+    font-weight: 400;
+    top: 70px;
+    left: 150px;
+    font-size: 17px;
+}
+
+.margin0{
+    margin:0;
+}
+
+.posrel{
+    position:relative;
+}
+
+.posabs{
+    position:absolute;
+}
